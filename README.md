@@ -3,7 +3,9 @@
 Your job is to create one class called ZombiePlant. 
 You should pass all of the tests in the ZombiePlantTester class (provided).
 
-This question involves the implementation of a zombie plant treatment system that is represented by the ZombiePlant class. A ZombiePlant object is created with parameters that specify the maximum potency for a successful treatment and the initial number of successful treatments required to cure the plant.
+This question involves the implementation of a zombie plant treatment system that is represented by the ZombiePlant class. 
+A ZombiePlant object is created with parameters that specify the maximum potency for a successful treatment and the initial 
+number of successful treatments required to cure the plant.
 The ZombiePlant class provides a constructor and the following methods.
 
 * getPotency, which returns the degree of potency that a treatment requires in order to be successful. 
@@ -12,6 +14,31 @@ The ZombiePlant class provides a constructor and the following methods.
 * treat, which administers a treatment with the specified potency.
 
 The following table contains a sample code execution sequence and the corresponding results. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 | Statements and Expressions                  | Value Returned (blank if no value) | Comment                  |
 | ------------------------------------------- | ---------------------------------- | ------------------------ |
